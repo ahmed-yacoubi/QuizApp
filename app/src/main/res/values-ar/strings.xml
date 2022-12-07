@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name"> من سيربح المليون</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login">دخول</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="welcome_back">مرحبا بعودتك !</string>
+    <string name="login_to_continue">اذهب الى تسجيل الدخول</string>
+    <string name="username_cannot_empty">يجب ادخال اسم المستخدم</string>
+    <string name="password_cannot_empty">يجب ادخل كلمة المرور</string>
+    <string name="old_password_cannot_be_empty">سيجب ادخال كلمة المرور القديمة</string>
+    <string name="new_password_cannot_be_empty">يجب ادخال كلمة المرور الجديدة</string>
+    <string name="confirm_new_password_cannot_be_empty">Confirm New Password cannot be empty</string>
+    <string name="password_must_be_same">كلمات المرور غير متطابقة</string>
+    <string name="new_password_must_be_different">كلمة المرور الجديدة يجب ان تكون مختلفة</string>
+    <string name="email_cannot_empty">يجب ادخال البريد الالكتروني</string>
+    <string name="email_not_valid">البريد الالكتروني خطأ</string>
+    <string name="don_t_have_an_account">ليس لديك حساب؟</string>
+    <string name="sign_up">تسجيل</string>
+    <string name="create_account">انشاء حساب</string>
+    <string name="register">تسجيل</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="start_quiz">ابدا الاختبار</string>
+    <string name="rule">القواعد</string>
+    <string name="history">التاريخ</string>
+    <string name="menu">القائمة</string>
+    <string name="quiz_option">الخيار</string>
+    <string name="edit_password">تعديل كلمة المرور</string>
+    <string name="logout">الخروج</string>
+    <string name="new_password">كلمة المرور الجديدة</string>
+    <string name="confirm_new_password">تاكيد كلمة المرور الجديدة</string>
+    <string name="old_password">كملة المرور القديمة</string>
+    <string name="create">انشاء</string>
+    <string name="save_password">حفظ كلمة المرور</string>
+    <string name="literature">شامل</string>
+    <string name="geography">الوحدة الثانية</string>
+    <string name="math">الوحدة الاولى</string>
+    <string name="finish">انهاء</string>
+    <string name="next">التالي</string>
+    <string name="enter_answer">ادخل الاجابة</string>
+    <string name="final_result">النتيجة النهائية</string>
+    <string name="subject">الموضوع</string>
+    <string name="correct">اجابة صحيحة</string>
+    <string name="incorrect">اجابة غير صحيحة</string>
+    <string name="earned">المحصلة: </string>
+    <string name="total_questions">عدد الاسئلة :</string>
+    <string name="overall_points">النقاط الكلية : </string>
+    <string name="math_quiz">الوحدة الاولى</string>
+    <string name="literature_quiz">الوحدة الثانية</string>
+    <string name="geography_quiz">الوحدة الثالثة</string>
+    <string name="date">التاريخ :</string>
+    <string name="start_again">ابدا مرة اخرى</string>
+
+    <string name="rules1_description">
+        يحتوي الاختبار على 5 أسئلة عشوائية.
+    </string>
+    <string name="rules2_description">
+كل إجابة صحيحة تمنحك 5 نقاط.    </string>
+    <string name="rules3_description">
+كل إجابة خاطئة تخصم منك نقطتين.    </string>
+    <string name="rules4_description">
+سيتم حفظ نتائجك وستتراكم في سجلك.    </string>
+</resources>
